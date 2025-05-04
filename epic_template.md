@@ -15,12 +15,12 @@ _Name of the Epic Owner_
 
 _An elevator pitch (value statement) that describes the Epic in a clear and concise way._
 
-For <Customers>
-who <do something>
-the <Solution>
-is a <something – the how>
-that <provides this value>
-unlike <competitor, current Solution or non-existing Solution>our Solution <does something better – the why>
+_For <Customers>_
+_who <do something>_
+_the <Solution>_
+_is a <something – the how>_
+_that <provides this value>_
+_unlike <competitor, current Solution or non-existing Solution>our Solution <does something better – the why>_
 
 **Business Outcomes**
 
@@ -31,4 +31,5 @@ _The measurable benefits that the business can anticipate if the Epic hypothesis
 _The early measures that will help predict the business outcome hypothesis._
 
 **Nonfunctional Requirements**
+
 _Nonfunctional requirements associated with the Epic._

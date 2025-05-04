@@ -1,9 +1,9 @@
 # Epic Template
 **Funnel Entry Date**
-<Date the Epic entered the funnel>
+_Date the Epic entered the funnel_
 
 **Epic Name**
-<A short name for the Epic>
+_A short name for the Epic_
 
 **Epic Owner**
 <Name of the Epic Owner>
